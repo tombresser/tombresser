@@ -12,7 +12,48 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/r" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=r" alt="r" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a></p>
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/r" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=r" alt="r" width="40" height="40"/>
+            </a>
+            <br/>Proficient
+        </td>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/>
+            </a>
+            <br/>Basic
+        </td>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+            </a>
+            <br/>Functional
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+            </a>
+            <br/>Functional
+        </td>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+            </a>
+            <br/>Basic
+        </td>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer">
+                <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
+            </a>
+            <br/>Functional
+        </td>
+    </tr>
+</table>
 
 <h3 align="left">Github stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombresser&show_icons=true&locale=en&layout=compact" alt="tombresser" /></p>    
