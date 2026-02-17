@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Tom
 
-<!--
-**tombresser/tombresser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Curious neuroscientist using different tools to analyse data
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **brain correlates of hyperarousal**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Python, SQL**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/tombresser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tombresser" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tom-bresser-a9b4a468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-bresser-a9b4a468" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombresser&show_icons=true&locale=en&layout=compact" alt="tombresser" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tombresser&show_icons=true&locale=en" alt="tombresser" /></p>  
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/tombresser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tombresser" /></a></p><br><br>
+
+
+
