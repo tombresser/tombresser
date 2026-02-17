@@ -20,8 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tombresser&show_icons=true&locale=en" alt="tombresser" /></p>  
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tombresser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tombresser" /></a></p><br><br>
+<h4 align="left">Support:</h4>
+<p><a href="https://www.buymeacoffee.com/tombresser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="tombresser" /></a></p><br><br>
 
 
 
