@@ -14,9 +14,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombresser&show_icons=true&locale=en&layout=compact" alt="tombresser" /></p>  
-  
+<h3 align="left">Github stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombresser&show_icons=true&locale=en&layout=compact" alt="tombresser" /></p>    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tombresser&show_icons=true&locale=en" alt="tombresser" /></p>  
 
 
