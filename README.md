@@ -2,8 +2,8 @@
 
 ### Curious neuroscientist using different tools to analyse data
 
-- 🔭 I'm currently working on **brain correlates of hyperarousal**
-- 🌱 I'm currently curious to learn and improve **Python, SQL**
+- 🔭 I'm currently working on research into **brain correlates of hyperarousal**
+- 🌱 I'm curious to next learn and improve **Python, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
