@@ -55,9 +55,9 @@
     </tr>
 </table>
 
-<h3 align="left">Github stats:</h3>
+<!-- <h3 align="left">Github stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombresser&show_icons=true&locale=en&layout=compact" alt="tombresser" /></p>    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tombresser&show_icons=true&locale=en" alt="tombresser" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tombresser&show_icons=true&locale=en" alt="tombresser" /></p> -->  
 
 
 <h4 align="left">Support:</h4>
